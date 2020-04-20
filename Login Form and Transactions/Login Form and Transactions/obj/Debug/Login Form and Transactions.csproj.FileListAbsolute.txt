@@ -1,0 +1,14 @@
+c:\users\ismis\documents\visual studio 2015\Projects\Login Form and Transactions\Login Form and Transactions\bin\Debug\Login Form and Transactions.exe.config
+c:\users\ismis\documents\visual studio 2015\Projects\Login Form and Transactions\Login Form and Transactions\obj\Debug\Login Form and Transactions.csprojResolveAssemblyReference.cache
+c:\users\ismis\documents\visual studio 2015\Projects\Login Form and Transactions\Login Form and Transactions\obj\Debug\Login_Form_and_Transactions.Form1.resources
+c:\users\ismis\documents\visual studio 2015\Projects\Login Form and Transactions\Login Form and Transactions\obj\Debug\Login_Form_and_Transactions.Properties.Resources.resources
+c:\users\ismis\documents\visual studio 2015\Projects\Login Form and Transactions\Login Form and Transactions\obj\Debug\Login Form and Transactions.csproj.GenerateResource.Cache
+c:\users\ismis\documents\visual studio 2015\Projects\Login Form and Transactions\Login Form and Transactions\bin\Debug\Login Form and Transactions.exe
+c:\users\ismis\documents\visual studio 2015\Projects\Login Form and Transactions\Login Form and Transactions\bin\Debug\Login Form and Transactions.pdb
+c:\users\ismis\documents\visual studio 2015\Projects\Login Form and Transactions\Login Form and Transactions\obj\Debug\Login Form and Transactions.exe
+c:\users\ismis\documents\visual studio 2015\Projects\Login Form and Transactions\Login Form and Transactions\obj\Debug\Login Form and Transactions.pdb
+c:\users\ismis\documents\visual studio 2015\Projects\Login Form and Transactions\Login Form and Transactions\obj\Debug\Login_Form_and_Transactions.Transaction.resources
+c:\users\ismis\documents\visual studio 2015\Projects\Login Form and Transactions\Login Form and Transactions\obj\Debug\Login_Form_and_Transactions.Prompt_to_continue.resources
+C:\Users\ISMIS\documents\visual studio 2015\Projects\Login Form and Transactions\Login Form and Transactions\obj\Debug\Login_Form_and_Transactions.Authentication.resources
+C:\Users\ISMIS\documents\visual studio 2015\Projects\Login Form and Transactions\Login Form and Transactions\obj\Debug\Login_Form_and_Transactions.SynchingForm.resources
+C:\Users\ISMIS\documents\visual studio 2015\Projects\Login Form and Transactions\Login Form and Transactions\obj\Debug\Login_Form_and_Transactions.Sign_Up.resources
